@@ -33,7 +33,7 @@ The repository can be found [here](https://github.com/UCSD/campus-mobile.git).
 
 ## What I do for fun
 
-I love to travel and visit new places. You can see some pictures from my recent trip to Hawaii: [Sunset](assets/hawaii/IMG_9423.HEIC), [Beach](http://mihirgupta.dev/cse110-lab1/assets/hawaii/IMG_9362.HEIC).
+I love to travel and visit new places. You can see some pictures from my recent trip to Hawaii: [Sunset](assets/hawaii/IMG_9423.jpeg), [Beach](http://mihirgupta.dev/cse110-lab1/assets/hawaii/IMG_9362.jpeg).
 
 ## My favorite things
 
