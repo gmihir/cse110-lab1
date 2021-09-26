@@ -10,7 +10,8 @@ Here's my dog!
 [About Me](#about-me)\
 [Professional Experience](#professional-experience)\
 [What I do for fun](#what-i-do-for-fun)\
-[My favorite things](#my-favorite-things)
+[My favorite things](#my-favorite-things)\
+[My future plans](#my-future-plans)
 
 
 ## About Me
