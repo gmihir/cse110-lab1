@@ -1,3 +1,2 @@
 # cse110-lab1
-Mihir Gupta's User Page
-My favorite programming language is Java.
+Link to the published GitHub Pages site: https://www.mihirgupta.dev/cse110-lab1/index
